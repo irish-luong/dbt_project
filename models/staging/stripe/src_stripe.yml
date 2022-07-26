@@ -4,4 +4,4 @@ sources:
   - name: stripe
     schema: stripe
     tables:
-      - name: payments
+      - name: payment
